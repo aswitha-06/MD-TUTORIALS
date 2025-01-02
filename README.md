@@ -31,5 +31,4 @@ Practice
 This text is ***really important***.
 
 ![screenshot](pic1.png)
-![my screenshot](![pic1](https://github.com/user-attachments/assets/e30f9ca9-01ff-413b-9986-872aa8bdcdfc)
 

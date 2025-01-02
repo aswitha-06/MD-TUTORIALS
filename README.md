@@ -10,4 +10,5 @@ Practice
 <h2>Heading level 2</h2>
 
 >Markdown applications don’t agree on how to handle a missing space between the number signs (#) and the heading name.
+
 >For compatibility, always put a space between the number signs and the heading name.

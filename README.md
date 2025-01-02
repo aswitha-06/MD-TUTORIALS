@@ -12,3 +12,9 @@ Practice
 >Markdown applications don’t agree on how to handle a missing space between the number signs (#) and the heading name.
 
 >For compatibility, always put a space between the number signs and the heading name.
+
+Try to put a blank line before...
+
+# Heading
+
+...and after a heading.

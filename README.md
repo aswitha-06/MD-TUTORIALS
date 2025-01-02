@@ -24,8 +24,8 @@ Practice
 
 ..........
 
-**Love** is **bold**
+>**Love** is **bold**
 
 .........
 
-This text is ***really important***.
+>>This text is ***really important***.

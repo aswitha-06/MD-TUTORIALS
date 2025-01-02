@@ -13,8 +13,8 @@ Practice
 
 >For compatibility, always put a space between the number signs and the heading name.
 
-Try to put a blank line before...
+.........
 
 # Heading
 
-...and after a heading.
+.........

@@ -29,3 +29,5 @@ Practice
 .........
 
 This text is ***really important***.
+
+![screenshot](pic1.png pic1)
